@@ -4,3 +4,8 @@ __pycache__/
 *.db
 .env
 .vscode/
+.venv/
+client/node_modules/
+client/dist/
+client/tsconfig.tsbuildinfo
+data/

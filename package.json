@@ -1,0 +1,8 @@
+{
+  "name": "mfa-portal",
+  "private": true,
+  "scripts": {
+    "dev": "uv run dev",
+    "build": "bun run --cwd client build"
+  }
+}
