@@ -1,0 +1,4 @@
+List of Cited Sources
+
+Password Salt+Hash Storage using argon2:
+https://www.boldare.com/blog/how-to-improve-user-password-security-with-argon2/
